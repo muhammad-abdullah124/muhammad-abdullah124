@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 [+] Red Team Operations & Social Engineering
 [+] Cloud & Virtualization: Knowledge of AWS, VirtualBox, and VMware
 [+] Offensive Security: Information gathering, scanning, exploitation
-[+] Monitoring & Logging: Understanding of tools like Elastic-search, kibana and ELK stack
+[+] Threat Hunting with Elasticsearch & Kibana
+[+] ISO 27001, PCI DSS, & SCADA Security
 ```
 
 
@@ -110,13 +111,18 @@ Here are some ideas to get you started:
 
 ## 📘 Featured Projects
 
-🔒 [PayloadLab](https://github.com/muhammad-abdullah124/PayloadLab)  
-> Custom payload generator for web pentesting with evasion logic.
+🔒 [PayloadLab](https://github.com/muhammad-abdullah124/PayloadLab) 
+
+   Custom payload generator for web pentesting with evasion logic.
 
 📊 [Shadow Recon](https://github.com/muhammad-abdullah124/Shadow_Recon)  
-> Stealthy Reconnaissance Toolkit for Red Teams.
+   
+   Stealthy Reconnaissance Toolkit for Red Teams.
 
 ---
+
+> **Cybersecurity is not a toolset — it’s a mindset.**
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-abdullah124&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
